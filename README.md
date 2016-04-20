@@ -1,0 +1,1 @@
+# atom-angular2-styleguide-snippets
