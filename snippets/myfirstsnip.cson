@@ -1,0 +1,8 @@
+'.source.js':
+  'myFirstSnip':
+    'prefix': 'myfirstsnip'
+    'body': """
+      (function() {
+            console.log('hello world!');
+      })();
+    """
