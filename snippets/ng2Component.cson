@@ -1,0 +1,16 @@
+'.source.ts':
+  'ng2Component':
+    'prefix': 'ng2component'
+    'body': """
+        import {Component} from 'angular2/core';
+
+        @Component({
+          selector: '${1:my-component}',
+          templateUrl: '${2:app/my-component/my-component.component.html}'
+        })
+
+        export class ${3:My}Component {
+            ${4://start coding}
+        }
+
+    """
