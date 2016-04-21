@@ -1,6 +1,6 @@
 
 # angular2-styleguide-snippets
-Snippets for John Papa's Angular2 Styleguide
+Snippets for John Papa's Angular2 Styleguide. This is a work-in-progress and has not been published to APM.
 
 ##Snippets
 ###`ng2component`
